@@ -4,5 +4,5 @@ int main()
 {
 	int a=3,b=7;
 	int c=b-a;
-	cout<<c;
+	cout<<c<<endl;
 }
